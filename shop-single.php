@@ -417,8 +417,8 @@
       <section class="page-banner">
         <div class="container">
           <div class="page-banner-content text-center">
-            <h2 class="page-title">shop single</h2>
-            <p>Porem ipsum dolor sit amet consectetur</p>
+            <h2 class="page-title">Best Choice</h2>
+            <p>Your ultimate destination for curated men's grooming essentials</p>
           </div>
         </div>
       </section>
@@ -630,8 +630,7 @@
             <div class="col-xl-5">
               <div class="th-info">
                 <h2>
-                  <span>GLANCE</span> Themes are compatible with major plugins
-                  and much more!
+                  <span>GLANCE</span> Your ultimate destination for curated men's grooming essentials.
                 </h2>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
@@ -921,7 +920,7 @@
               <div class="reviews">
                 <div class="review-user">
                   <div class="review-user-img">
-                    <img src="assets/images/resource/review4.jpg" alt="" />
+                    <img src="assets/images/resource/review3.jpg" alt="" />
                   </div>
                   <div class="review-user-info">
                     <h4>Arbaz Ali</h4>

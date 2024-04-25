@@ -1,14 +1,13 @@
 <?php
 include("database-helper.php");
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $Fullname = mysqli_real_escape_string($conn, $_POST['name']);
-    $Email = mysqli_real_escape_string($conn, $_POST['email']);
+    $name = mysqli_real_escape_string($conn, $_POST['name']);
     $Password = mysqli_real_escape_string($conn, $_POST['password']);
 
     // Hash the password
     $hashedPassword = password_hash($Password, PASSWORD_DEFAULT);
 
-    $query = "INSERT INTO `signup` (`Id`, `fullname`, `Email`, `password`) VALUES ('', '$Fullname', '$Email', '$hashedPassword')";
+    $query = "INSERT INTO `adminlogin` (`Id`, `name`, `password`,`status`) VALUES ('', '$name', '$hashedPassword')";
     $result = mysqli_query($conn, $query);
 
     if ($result) {

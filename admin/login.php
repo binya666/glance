@@ -1,22 +1,4 @@
-<?php 
-include("../scripts/config.php");
-if(isset($_REQUEST['submit']))
-{
-    $Email=$_REQUEST['email'];
-    $Password=$_REQUEST['password'];
-if ($db_name != null) {
-    $Query = "SELECT * FROM signup WHERE email='$Email' AND password='$Password'";
-    $Result = mysqli_query($conn, $Query);
-    if (mysqli_num_rows($Result) > 0) {
-        $memory=mysqli_fetch_object($Result);
-        $_SESSION['SESSION_ID']=$memory->id;
-        header("Location: admin/index.php");
-    exit();
-    }
-}
-else{
-    echo '<script> alert("Email or Password incorrect") </script>';
-}}?>
+
 <!DOCTYPE html>
 <html lang="en" class="h-100">
   <head>

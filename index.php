@@ -374,7 +374,7 @@
             <div class="inner-column">
               <div class="popup-title text-center">
                 <h2>coming soon!!</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p>Your ultimate destination for curated men's grooming essentials.</p>
               </div>
               <div class="time-counter" id="clockdiv">
                 <ul>
@@ -534,7 +534,7 @@
             <div class="main-slider-content">
               <span>Haute Couture</span>
               <h1>New Arrivals</h1>
-              <p>Porem ipsum dolor sit amet consectetur</p>
+              <p>Your ultimate destination for curated men's grooming essentials.</p>
               <a href="shop-single.php" title="" class="theme-btn">buy now</a>
             </div>
           </div>
@@ -549,7 +549,7 @@
             <div class="main-slider-content">
               <span>Haute Couture</span>
               <h1>New Arrivals</h1>
-              <p>Porem ipsum dolor sit amet consectetur</p>
+              <p>Your ultimate destination for curated men's grooming essentials.</p>
               <a href="shop-single.php" title="" class="theme-btn">buy now</a>
             </div>
           </div>
@@ -564,7 +564,7 @@
             <div class="main-slider-content">
               <span>Haute Couture</span>
               <h1>New Arrivals</h1>
-              <p>Porem ipsum dolor sit amet consectetur</p>
+              <p>Your ultimate destination for curated men's grooming essentials</p>
               <a href="shop-single.php" title="" class="theme-btn">buy now</a>
             </div>
           </div>
