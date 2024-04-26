@@ -6,7 +6,7 @@
               <div class="widget widget-links wow fadeInLeft">
                 <h3 class="widget-title">CUSTOMER SERVICE</h3>
                 <ul class="wd-links">
-                  <li><a href="#" title="">Contact Support</a></li>
+                  <li><a href="contact.php" title="">Contact Support</a></li>
                   <li><a href="#" title="">Track My Order</a></li>
                   <li><a href="#" title="">Returns</a></li>
                   <li><a href="#" title="">Accessibility</a></li>
@@ -34,7 +34,7 @@
                 <ul class="wd-links">
                   <li><a href="faqs.php" title="">FAQs</a></li>
                   <li><a href="account.php" title="">Account</a></li>
-                  <li><a href="#" title="">Instagram</a></li>
+                  <li><a href="https://www.instagram.com/binya_kamboh/" title="">Instagram</a></li>
                   <li><a href="contact.php" title="">Contact Us</a></li>
                 </ul>
               </div>
@@ -61,7 +61,7 @@
         <div class="bottom-footer">
           <div class="container">
             <div class="copyright wow slideInUp">
-              <p>© 2023 Glance IND - ALL RIGHTS RESERVED</p>
+              <p>© 2024 Glance IND - ALL RIGHTS RESERVED</p>
             </div>
           </div>
         </div>

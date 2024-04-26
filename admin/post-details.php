@@ -2,10 +2,9 @@
 <html lang="en">
 
 
-<!-- Mirrored from uena.dexignzone.com/django/xhtml/post-details.phpHTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:15:24 GMT -->
 <head>
     <!-- Title -->
-	<title>Uena - Django Restaurant Admin Dashboard Template </title>
+	<title>Uena - Admin Dashboard  </title>
 
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -16,7 +15,7 @@
 	<meta name="keywords" content="	admin dashboard, admin template, administration, analytics, bootstrap, cafe admin, elegant, food, health, kitchen, modern, responsive admin dashboard, restaurant dashboard">
 	<meta name="description" content="Boost your Restaurant business with Uena Bootstrap 5 HTML Dashboard Template. Our professionally designed admin templates cater specifically to the needs of Food, admin and cafe business, offering visually stunning and functional designs. Choose from a variety of Uena website templates that are perfect for showcasing your menu, promoting your services, and attracting Factory  customers. Partner with DexignZone to create an impressive online presence for your Restaurant. Start driving more traffic and growing your business today">
 
-	<meta property="og:title" content="Uena - Django Restaurant Admin Dashboard Template">
+	<meta property="og:title" content="Uena - Admin Dashboard ">
 	<meta property="og:description" content="Boost your Restaurant business with Uena Bootstrap 5 HTML Dashboard Template. Our professionally designed admin templates cater specifically to the needs of Food, admin and cafe business, offering visually stunning and functional designs. Choose from a variety of Uena website templates that are perfect for showcasing your menu, promoting your services, and attracting Factory  customers. Partner with DexignZone to create an impressive online presence for your Restaurant. Start driving more traffic and growing your business today">
 	<meta property="og:image" content="../social-image.png">
 	<meta name="format-detection" content="telephone=no">
@@ -798,188 +797,7 @@
         <!--**********************************
             Sidebar start
         ***********************************-->
-        <div class="deznav">
-            <div class="deznav-scroll">
-				<ul class="metismenu" id="menu">
-                    <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-025-dashboard"></i>
-							<span class="nav-text">Dashboard</span>
-						</a>
-                        <ul aria-expanded="false">
-							<li><a href="index.phpshboard Light</a></li>
-							<li><a href="index-2.phpshboard Dark</a></li>
-							<li><a href="orders-list.phpders list</a></li>
-							<li><a href="order-detail.phpder Detail</a></li>
-							<li><a href="customer-list.phpstomers</a></li>
-							<li><a href="analytics.phpalytics</a></li>
-							<li><a href="reviews.phpviews</a></li>	
-						</ul>
-
-                    </li>
-                    <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-						<i class="flaticon-050-info"></i>
-							<span class="nav-text">Apps</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="app-profile.phpofile</a></li>
-							<li><a href="post-details.phpst Details</a></li>
-                            <li><a class="has-arrow" href="javascript:void()" aria-expanded="false">Email</a>
-                                <ul aria-expanded="false">
-                                    <li><a href="email-compose.phpmpose</a></li>
-                                    <li><a href="email-inbox.phpbox</a></li>
-                                    <li><a href="email-read.phpad</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="app-calender.phplendar</a></li>
-							<li><a class="has-arrow" href="javascript:void()" aria-expanded="false">Shop</a>
-                                <ul aria-expanded="false">
-                                    <li><a href="ecom-product-grid.phpoduct Grid</a></li>
-									<li><a href="ecom-product-list.phpoduct List</a></li>
-									<li><a href="ecom-product-detail.phpoduct Details</a></li>
-									<li><a href="ecom-product-order.phpder</a></li>
-									<li><a href="ecom-checkout.phpeckout</a></li>
-									<li><a href="ecom-invoice.phpvoice</a></li>
-									<li><a href="ecom-customers.phpstomers</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-041-graph"></i>
-							<span class="nav-text">Charts</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="chart-flot.phpot</a></li>
-                            <li><a href="chart-morris.phprris</a></li>
-                            <li><a href="chart-chartjs.phpartjs</a></li>
-                            <li><a href="chart-chartist.phpartist</a></li>
-                            <li><a href="chart-sparkline.phparkline</a></li>
-                            <li><a href="chart-peity.phpity</a></li>
-                        </ul>
-                    </li>
-                    <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-086-star"></i>
-							<span class="nav-text">Bootstrap</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="ui-accordion.phpcordion</a></li>
-                            <li><a href="ui-alert.phpert</a></li>
-                            <li><a href="ui-badge.phpdge</a></li>
-                            <li><a href="ui-button.phptton</a></li>
-                            <li><a href="ui-modal.phpdal</a></li>
-                            <li><a href="ui-button-group.phptton Group</a></li>
-                            <li><a href="ui-list-group.phpst Group</a></li>
-                            <li><a href="ui-media-object.phpdia Object</a></li>
-                            <li><a href="ui-card.phprds</a></li>
-                            <li><a href="ui-carousel.phprousel</a></li>
-                            <li><a href="ui-dropdown.phpopdown</a></li>
-                            <li><a href="ui-popover.phppover</a></li>
-                            <li><a href="ui-progressbar.phpogressbar</a></li>
-                            <li><a href="ui-tab.phpb</a></li>
-                            <li><a href="ui-typography.phppography</a></li>
-                            <li><a href="ui-pagination.phpgination</a></li>
-                            <li><a href="ui-grid.phpid</a></li>
-
-                        </ul>
-                    </li>
-                    <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-045-heart"></i>
-							<span class="nav-text">Plugins</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="uc-select2.phplect 2</a></li>
-                            <li><a href="uc-nestable.phpstedable</a></li>
-                            <li><a href="uc-noui-slider.phpui Slider</a></li>
-                            <li><a href="uc-sweetalert.phpeet Alert</a></li>
-                            <li><a href="uc-toastr.phpastr</a></li>
-                            <li><a href="map-jqvmap.phpv Map</a></li>
-							<li><a href="uc-lightgallery.phpght Gallery</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="widget-basic.phpass="ai-icon" aria-expanded="false">
-							<i class="flaticon-013-checkmark"></i>
-							<span class="nav-text">Widget</span>
-						</a>
-					</li>
-					<li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-038-gauge"></i>
-							<span class="nav-text">Icons</span>
-							<span class="badge badge-sm badge-danger ms-3">New</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="flat-icons.phpaticons</a></li>
-                            <li><a href="svg-icons.phpG Icons</a></li>
-                            
-                        </ul>
-                    </li>
-					<li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-007-bulleye"></i>
-							<span class="nav-text">CMS</span>
-							<span class="badge badge-sm badge-danger ms-3">New</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="content.phpntent</a></li>
-                            <li><a href="menu.phpnus</a></li>
-                            <li><a href="email-template.phpail Template</a></li>
-                            <li><a href="blog.phpog</a></li>
-                        </ul>
-                    </li>
-                    <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-072-printer"></i>
-							<span class="nav-text">Forms</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="form-element.phprm Elements</a></li>
-                            <li><a href="form-wizard.phpzard</a></li>
-                            <li><a class="has-arrow" href="javascript:void()" aria-expanded="false">Editor</a>
-                                <ul aria-expanded="false">
-									<li><a href="form-editor-ckeditor.phpeditor</a></li>
-                                    <li><a href="form-editor-summernote.phpmmernote</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="form-pickers.phpckers</a></li>
-                            <li><a href="form-validation-jquery.phpuery Validate</a></li>
-                        </ul>
-                    </li>
-                    <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-043-menu"></i>
-							<span class="nav-text">Table</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="table-bootstrap-basic.phpotstrap</a></li>
-                            <li><a href="table-datatable-basic.phptatable</a></li>
-                        </ul>
-                    </li>
-                    <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-							<i class="flaticon-022-copy"></i>
-							<span class="nav-text">Pages</span>
-						</a>
-                        <ul aria-expanded="false">
-                            <li><a href="login.phpgin 1</a></li>
-                            <li><a href="page-login.phpgin 2</a></li>
-                            <li><a href="page-register.phpgister</a></li>
-                            <li><a class="has-arrow" href="javascript:void()" aria-expanded="false">Error</a>
-                                <ul aria-expanded="false">
-                                    <li><a href="page-error-400.phpror 400</a></li>
-                                    <li><a href="page-error-403.phpror 403</a></li>
-                                    <li><a href="page-error-404.phpror 404</a></li>
-                                    <li><a href="page-error-500.phpror 500</a></li>
-                                    <li><a href="page-error-503.phpror 503</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="page-lock-screen.phpck Screen</a></li>
-                            <li><a href="empty-page.phppty Page</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            
-				
-				<div class="copyright">
-					<p><strong>Uena  Admin  Dashboard</strong> © 2024 All Rights Reserved</p>
-					<p class="fs-12">Made with <span class="heart"></span> by DexignZone</p>
-				</div>
-			</div>
-        </div>
+        <?php include"components/sidebar.php"; ?>
         <!--**********************************
             Sidebar end
         ***********************************-->
@@ -1297,5 +1115,4 @@
 	
 </body>
 
-<!-- Mirrored from uena.dexignzone.com/django/xhtml/post-details.phpHTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:18:06 GMT -->
 </html>

@@ -7,11 +7,12 @@
 						</a>
                         <ul aria-expanded="false">
 							<li><a href="index.php">Dashboard Light</a></li>
-							<li><a href="index-2.php">Dashboard Dark</a></li>
+							<li><a href="index-2.php">Dashboard</a></li>
 							<li><a href="orders-list.php">Orders list</a></li>
 							<li><a href="order-detail.php">Order Detail</a></li>
 							<li><a href="customer-list.php">Customers</a></li>
                             <li><a href="team-member-list.php">Team Member</a></li>
+                            <li><a href="faqs-add.php">FAQS</a></li>
 							<li><a href="analytics.php">Analytics</a></li>
 							<li><a href="reviews.php">Reviews</a></li>	
 						</ul>

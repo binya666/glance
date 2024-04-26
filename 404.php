@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Glance | HTML Template | Home Page 01</title>
+    <title>Glance | 404</title>
     <!-- Stylesheets -->
     <link href="assets/css/all.min.css" rel="stylesheet" />
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
@@ -24,61 +24,11 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
     />
-    <!--[if lt IE 9
-      ]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script
-    ><![endif]-->
-    <!--[if lt IE 9]><script src="assets/js/respond.js"></script><![endif]-->
   </head>
 
   <body>
     <div class="page-wrapper">
-      <?php require("components/header.php");?>
-      <!-- <div class="overlay-menu">
-        <ul class="menu-links">
-          <li>
-            <a href="index.php" title="">Home</a>
-          </li>
-          <li>
-            <a href="#" title="">shop</a>
-           <ul>
-              <li><a href="shop-category.php" title="">Shop Category</a></li>
-              <li><a href="cart.php" title="">Cart</a></li>
-            </ul>
-          </li>
-          <li>
-            <a href="single-article.php" title="">blog</a>
-          </li>
-          <li>
-            <a href="contact.php" title="">contact us</a>
-          </li>
-          <li>
-            <a href="#" title="">Pages</a>
-            <ul>
-              <li><a href="about.php" title="">About</a></li>
-              <li><a href="faqs.php" title="">FAQs</a></li>
-              <li><a href="signup.php" title="">Sign up</a></li>
-              <li><a href="login.php" title="">Login</a></li>
-              <li><a href="account.php" title="">account</a></li>
-              <li><a href="404.php" title="">404</a></li>
-            </ul>
-          </li>
-        </ul>
-        <div
-          class="marquee3"
-          data-duration="60000"
-          data-gap="0"
-          data-duplicated="true"
-        >
-          <ul>
-            <li>Glance</li>
-            <li>Glance</li>
-            <li>Glance</li>
-            <li>Glance</li>
-            <li>Glance</li>
-            <li>Glance</li>
-          </ul>
-        </div>
-      </div> -->
+      
       <!--overlay-menu-->
 
       <div class="error-page">

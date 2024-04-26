@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>Uena - Django Restaurant Admin Dashboard Template</title>
+    <title>Uena - Admin Dashboard </title>
 
     <!-- Meta -->
     <meta charset="utf-8" />
@@ -21,7 +21,7 @@
 
     <meta
       property="og:title"
-      content="Uena - Django Restaurant Admin Dashboard Template"
+      content="Uena - Admin Dashboard "
     />
     <meta
       property="og:description"

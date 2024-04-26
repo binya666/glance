@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-  <!-- Mirrored from uena.dexignzone.com/django/xhtml/ecom-customers.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:20:00 GMT -->
   <head>
     <!-- Title -->
-    <title>Uena - Django Restaurant Admin Dashboard Template</title>
+    <title>Uena - Admin Dashboard </title>
 
     <!-- Meta -->
     <meta charset="utf-8" />
@@ -22,7 +21,7 @@
 
     <meta
       property="og:title"
-      content="Uena - Django Restaurant Admin Dashboard Template"
+      content="Uena - Admin Dashboard "
     />
     <meta
       property="og:description"
@@ -3463,5 +3462,4 @@
     <script src="js/deznav-init.js"></script>
   </body>
 
-  <!-- Mirrored from uena.dexignzone.com/django/xhtml/ecom-customers.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:20:03 GMT -->
 </html>

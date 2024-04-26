@@ -22,7 +22,7 @@ else{
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Glance | HTML Template | Home Page 01</title>
+    <title>Glance | Login</title>
     <!-- Stylesheets -->
     <link href="assets/css/all.min.css" rel="stylesheet" />
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
@@ -40,10 +40,6 @@ else{
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
     />
-    <!--[if lt IE 9
-      ]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script
-    ><![endif]-->
-    <!--[if lt IE 9]><script src="assets/js/respond.js"></script><![endif]-->
   </head>
 
   <body>
@@ -73,7 +69,7 @@ else{
             <div class="or">
               <span>Or sign in with email</span>
             </div>
-            <form action="#" method="post">
+            <form action="#" method="post" onsubmit="return validateForm()">
               <div class="input-field">
                 <label>Email</label>
                 <input
@@ -171,6 +167,22 @@ else{
           };
         }
       })();
+    </script>
+    <script>
+        // Function to validate the form before submission
+        function validateForm() {
+            var email = document.getElementsByName("email")[0].value;
+            var password = document.getElementsByName("password")[0].value;
+
+            // Check if email or password is empty
+            if (email === "" || password === "") {
+                alert("Please fill in all fields.");
+                return false; // Prevent form submission
+            }
+
+            // If everything is filled, allow form submission
+            return true;
+        }
     </script>
   </body>
 </html>

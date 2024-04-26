@@ -2,10 +2,9 @@
 <html lang="en">
 
 
-<!-- Mirrored from uena.dexignzone.com/django/xhtml/ecom-product-grid.phpby HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:19:20 GMT -->
 <head>
     <!-- Title -->
-	<title>Uena - Django Restaurant Admin Dashboard Template </title>
+	<title>Uena - Admin Dashboard  </title>
 
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -16,7 +15,7 @@
 	<meta name="keywords" content="	admin dashboard, admin template, administration, analytics, bootstrap, cafe admin, elegant, food, health, kitchen, modern, responsive admin dashboard, restaurant dashboard">
 	<meta name="description" content="Boost your Restaurant business with Uena Bootstrap 5 HTML Dashboard Template. Our professionally designed admin templates cater specifically to the needs of Food, admin and cafe business, offering visually stunning and functional designs. Choose from a variety of Uena website templates that are perfect for showcasing your menu, promoting your services, and attracting Factory  customers. Partner with DexignZone to create an impressive online presence for your Restaurant. Start driving more traffic and growing your business today">
 
-	<meta property="og:title" content="Uena - Django Restaurant Admin Dashboard Template">
+	<meta property="og:title" content="Uena - Admin Dashboard ">
 	<meta property="og:description" content="Boost your Restaurant business with Uena Bootstrap 5 HTML Dashboard Template. Our professionally designed admin templates cater specifically to the needs of Food, admin and cafe business, offering visually stunning and functional designs. Choose from a variety of Uena website templates that are perfect for showcasing your menu, promoting your services, and attracting Factory  customers. Partner with DexignZone to create an impressive online presence for your Restaurant. Start driving more traffic and growing your business today">
 	<meta property="og:image" content="../social-image.png">
 	<meta name="format-detection" content="telephone=no">
@@ -1258,5 +1257,4 @@
     
 </body>
 
-<!-- Mirrored from uena.dexignzone.com/django/xhtml/ecom-product-grid.phpby HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:19:42 GMT -->
 </html>
