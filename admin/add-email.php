@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-  <!-- Mirrored from uena.dexignzone.com/django/xhtml/add-email.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:28:50 GMT -->
   <head>
     <!-- Title -->
-    <title>Uena - Django Restaurant Admin Dashboard Template</title>
+    <title>Uena - Admin Dashboard </title>
 
     <!-- Meta -->
     <meta charset="utf-8" />
@@ -22,7 +21,7 @@
 
     <meta
       property="og:title"
-      content="Uena - Django Restaurant Admin Dashboard Template"
+      content="Uena - Admin Dashboard "
     />
     <meta
       property="og:description"
@@ -1277,15 +1276,7 @@
       <!--**********************************
             Footer start
         ***********************************-->
-      <div class="footer">
-        <div class="copyright">
-          <p>
-            Copyright © Designed &amp; Developed by
-            <a href="https://dexignzone.com/" target="_blank">DexignZone</a>
-            2024
-          </p>
-        </div>
-      </div>
+      <?php require("components/footer.php");?>
       <!--**********************************
             Footer end
         ***********************************-->
@@ -1324,5 +1315,4 @@
     <script src="js/styleSwitcher.js"></script>
   </body>
 
-  <!-- Mirrored from uena.dexignzone.com/django/xhtml/add-email.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:28:50 GMT -->
 </html>

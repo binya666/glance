@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" class="h-100">
-  <!-- Mirrored from uena.dexignzone.com/django/xhtml/page-lock-screen.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:24:03 GMT -->
   <head>
     <!-- Title -->
     <title>Uena - Restaurant Admin Dashboard</title>
@@ -124,5 +123,4 @@
     <script src="js/deznav-init.js"></script>
   </body>
 
-  <!-- Mirrored from uena.dexignzone.com/django/xhtml/page-lock-screen.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Mar 2024 04:24:05 GMT -->
 </html>
